@@ -27,6 +27,7 @@
 </v>
 </v>
 <v t="amd.20160501215545.1" a="E"><vh>wsgi 程式部份</vh>
+<v t="leo.20160620095116.1"><vh>@edit a40323152.py</vh></v>
 <v t="amd.20160501221015.1" a="E"><vh>@path ./../../../</vh>
 <v t="amd.20160501221001.1" a="E"><vh>@clean myflaskapp.py</vh>
 <v t="amd.20160501221001.2"><vh>myflaskapp declarations</vh></v>
@@ -78,6 +79,8 @@ g.es("admin pelican 近端執行完畢")
 @others
 if __name__ == "__main__":
     app.run()
+    
+app.register_blueprint(users.a.g6.a40323152.ag6)
 
 </t>
 <t tx="amd.20160501221001.10">@app.route('/fileaxupload', methods=['POST'])
@@ -212,6 +215,8 @@ import math
 import os
 # init.py 為自行建立的起始物件
 import init
+
+import users.a.g6.a40323152
 
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
