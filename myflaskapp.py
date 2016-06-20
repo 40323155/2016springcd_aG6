@@ -6,7 +6,7 @@ import os
 # init.py 為自行建立的起始物件
 import init
 
-import users.a.g6.a40323152
+import users.a.g6.ag6
 
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
@@ -378,5 +378,5 @@ def send_file(path):
 if __name__ == "__main__":
     app.run()
     
-app.register_blueprint(users.a.g6.a40323152.ag6)
+app.register_blueprint(users.a.g6.ag6.ag6)
 
