@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CD期末考週 網頁 (虎尾科大MDE)</title><link href="http://cdw18-ag100.rhcloud.com/static/blog/" rel="alternate"></link><link href="http://cdw18-ag100.rhcloud.com/static/blog/feeds/all.atom.xml" rel="self"></link><id>http://cdw18-ag100.rhcloud.com/static/blog/</id><updated>2016-06-20T09:33:50+08:00</updated><entry><title>40323155 期末考週專案報告</title><link href="http://cdw18-ag100.rhcloud.com/static/blog/40323155-qi-mo-kao-zhou-zhuan-an-bao-gao.html" rel="alternate"></link><updated>2016-06-20T09:33:50+08:00</updated><author><name>40323155</name></author><id>tag:cdw18-ag100.rhcloud.com,2016-06-20:static/blog/40323155-qi-mo-kao-zhou-zhuan-an-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CD期末考週 網頁 (虎尾科大MDE)</title><link href="http://cdw18-ag100.rhcloud.com/static/blog/" rel="alternate"></link><link href="http://cdw18-ag100.rhcloud.com/static/blog/feeds/all.atom.xml" rel="self"></link><id>http://cdw18-ag100.rhcloud.com/static/blog/</id><updated>2016-06-20T09:37:46+08:00</updated><entry><title>40323147 期末考週專案報告</title><link href="http://cdw18-ag100.rhcloud.com/static/blog/40323147-qi-mo-kao-zhou-zhuan-an-bao-gao.html" rel="alternate"></link><updated>2016-06-20T09:37:46+08:00</updated><author><name>40323147</name></author><id>tag:cdw18-ag100.rhcloud.com,2016-06-20:static/blog/40323147-qi-mo-kao-zhou-zhuan-an-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;今天要做的事很多，&lt;/p&gt;
+&lt;p&gt;1.要先找組裡的一個人建立倉儲，然後，把其他組員加進來。&lt;/p&gt;
+&lt;p&gt;2.每個人都git clone下來，修改README檔案。&lt;/p&gt;
+&lt;p&gt;3.取得老師倉儲的架構，並建立一個自我期末報告的網誌&lt;/p&gt;
+&lt;p&gt;4.然後利用老師教我們的2D繪圖，每個人都畫一個簡單幾何零件圖形，在代表的人的OpenShift上呈現。&lt;/p&gt;
+&lt;p&gt;5.再來要用Onshape，每一個人都要畫一個正齒輪，完成嚙合組立，將組合件設為公開，最後將各個連結放入對應資料區就完成了。&lt;/p&gt;
+&lt;p&gt;心得；今天做的東西應用到這學期學到的所有東西，做起來是需要整組的人通力合作才可以完成的&lt;/p&gt;</summary><category term="40323147"></category><category term="cdw18"></category></entry><entry><title>40323155 期末考週專案報告</title><link href="http://cdw18-ag100.rhcloud.com/static/blog/40323155-qi-mo-kao-zhou-zhuan-an-bao-gao.html" rel="alternate"></link><updated>2016-06-20T09:33:50+08:00</updated><author><name>40323155</name></author><id>tag:cdw18-ag100.rhcloud.com,2016-06-20:static/blog/40323155-qi-mo-kao-zhou-zhuan-an-bao-gao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;今天需要做的是有下面的六項:&lt;/p&gt;
 &lt;p&gt;1.推派代表建立組別的倉儲&lt;/p&gt;
